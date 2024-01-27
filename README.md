@@ -1,3 +1,3 @@
 # HelloGitHub
 
-this is my **hellorepo**
+this is my **hello repo**
